@@ -1,2 +1,2 @@
 
-# simpleTestWithMavenAndNG 4 5 6
+# simpleTestWithMavenAndNG 4 5 6 7
